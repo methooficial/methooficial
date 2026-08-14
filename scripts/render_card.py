@@ -29,7 +29,7 @@ BORDER_SUBTLE = "rgba(255,255,255,0.06)"
 
 MONO = 'ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace'
 
-WIDTH = 486
+WIDTH = 470
 HEIGHT = 268
 PAD = 20
 LABEL_X = PAD + 4

@@ -1,18 +1,19 @@
 <div align="center">
-  <img src="assets/hero.svg" width="860" alt="Metho — sistemas de receita com IA">
+  <img src="assets/hero.svg" width="830" alt="Metho — sistemas de receita com IA">
+</div>
+
+<br>
+
+<!-- as duas imagens ficam na MESMA linha de propósito: qualquer espaço entre elas
+     vira um gap de ~4px e estoura a largura útil do README (~828px), quebrando a linha -->
+<div align="center">
+  <img src="assets/mark-ascii.svg" width="356" alt="Monograma da Metho em ASCII art"><img src="assets/system-card.svg" width="470" alt="Stack e operação da Metho">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="assets/mark-ascii.svg" width="370" alt="Monograma da Metho em ASCII art">
-  <img src="assets/system-card.svg" width="486" alt="Stack e operação da Metho">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="assets/contrib.svg" width="860" alt="Contribuições da Metho no último ano">
+  <img src="assets/contrib.svg" width="830" alt="Contribuições da Metho no último ano">
 </div>
 
 <br>

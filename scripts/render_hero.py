@@ -26,7 +26,7 @@ BORDER_SUBTLE = "rgba(255,255,255,0.06)"
 
 MONO = 'ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace'
 
-WIDTH = 860
+WIDTH = 830
 HEIGHT = 230
 PAD = 34
 
@@ -49,9 +49,9 @@ TAGLINE_Y = 170
 CHAR_W = 7.22  # largura de caractere em 12px monospace (~0.6em)
 
 # Campo de pontos decorativo à direita — preenche o vazio sem competir com o texto.
-MATRIX_X = 468
+MATRIX_X = 450
 MATRIX_Y = 44
-MATRIX_COLS = 26
+MATRIX_COLS = 25
 MATRIX_ROWS = 11
 MATRIX_STEP = 14
 

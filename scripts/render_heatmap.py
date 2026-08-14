@@ -29,7 +29,7 @@ BORDER_SUBTLE = "rgba(255,255,255,0.06)"
 # Rampa 0→4 usando exclusivamente tokens de accent
 RAMP = ["#1A1A22", "#400101", "#8C0303", "#CC0017", "#E5001A"]
 
-WIDTH = 860
+WIDTH = 830
 HEIGHT = 212
 PAD = 22
 BOX = 11

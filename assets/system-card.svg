@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="486" height="268" viewBox="0 0 486 268" role="img" aria-label="Resumo técnico da Metho">
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="268" viewBox="0 0 470 268" role="img" aria-label="Resumo técnico da Metho">
   <title>Metho — stack e operação</title>
   <defs>
     <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
@@ -23,15 +23,15 @@
 
   </style>
 
-  <rect width="486" height="268" rx="14" fill="#141419"/>
-  <rect x=".5" y=".5" width="485" height="267" rx="13.5" fill="none" stroke="rgba(255,255,255,0.06)"/>
-  <rect x="1" y="0" width="484" height="1.5" fill="url(#edge)"/>
+  <rect width="470" height="268" rx="14" fill="#141419"/>
+  <rect x=".5" y=".5" width="469" height="267" rx="13.5" fill="none" stroke="rgba(255,255,255,0.06)"/>
+  <rect x="1" y="0" width="468" height="1.5" fill="url(#edge)"/>
 
   <g class="head">
     <text class="sigil" x="24" y="34">$</text>
     <text class="prompt" x="38" y="34">metho@systems</text>
-    <text class="foot-txt" x="466" y="34" text-anchor="end">v2026.8</text>
-    <rect x="24" y="48" width="438" height="1" fill="rgba(255,255,255,0.06)"/>
+    <text class="foot-txt" x="450" y="34" text-anchor="end">v2026.8</text>
+    <rect x="24" y="48" width="422" height="1" fill="rgba(255,255,255,0.06)"/>
   </g>
 
   <g>
@@ -48,7 +48,7 @@
 
   <g class="foot">
     <rect x="24" y="226" width="13" height="13" rx="3" fill="#E5001A"/><rect x="41" y="226" width="13" height="13" rx="3" fill="#CC0017"/><rect x="58" y="226" width="13" height="13" rx="3" fill="#8C0303"/><rect x="75" y="226" width="13" height="13" rx="3" fill="#400101"/><rect x="92" y="226" width="13" height="13" rx="3" fill="#1A1A22"/><rect x="109" y="226" width="13" height="13" rx="3" fill="#9999AA"/><rect x="126" y="226" width="13" height="13" rx="3" fill="#F0F0F5"/>
-    <circle class="dot" cx="360" cy="232" r="3.5" fill="#22C55E"/>
-    <text class="status" x="466" y="236" text-anchor="end">operando 24/7</text>
+    <circle class="dot" cx="344" cy="232" r="3.5" fill="#22C55E"/>
+    <text class="status" x="450" y="236" text-anchor="end">operando 24/7</text>
   </g>
 </svg>

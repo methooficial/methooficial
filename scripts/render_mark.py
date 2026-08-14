@@ -34,9 +34,9 @@ MONO = 'ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mo
 # Rampa claro → denso
 RAMP = " .:-=+*oxs%#@"
 
-PANEL_W = 370
+PANEL_W = 356
 PANEL_H = 268
-ART_W = 268
+ART_W = 258
 ART_TOP = 56
 COLS = 82
 CHAR_RATIO = 0.6  # largura/altura de uma célula monoespaçada
