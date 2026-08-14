@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="486" height="268" viewBox="0 0 486 268" role="img" aria-label="Resumo técnico da Metho">
+  <title>Metho — stack e operação</title>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E5001A" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#E5001A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .prompt { font-size: 11.5px; fill: #F0F0F5; font-weight: 600; letter-spacing: .02em; }
+    .sigil { font-size: 11.5px; fill: #E5001A; font-weight: 700; }
+    .key { font-size: 11.5px; fill: #E5001A; letter-spacing: .04em; }
+    .val { font-size: 11.5px; fill: #9999AA; letter-spacing: .01em; }
+    .foot-txt { font-size: 10.5px; fill: #55556A; letter-spacing: .06em; }
+    .status { font-size: 10.5px; fill: #9999AA; letter-spacing: .06em; }
+    @keyframes row-in { from { opacity: 0; transform: translateX(-9px); } to { opacity: 1; transform: none; } }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .35; } }
+    .row { opacity: 0; animation: row-in .5s cubic-bezier(.22,1,.36,1) both; }
+    .head { opacity: 0; animation: row-in .55s cubic-bezier(.22,1,.36,1) .05s both; }
+    .foot { opacity: 0; animation: row-in .55s cubic-bezier(.22,1,.36,1) 1.05s both; }
+    .dot { animation: pulse 2.4s ease-in-out infinite; }
+
+  </style>
+
+  <rect width="486" height="268" rx="14" fill="#141419"/>
+  <rect x=".5" y=".5" width="485" height="267" rx="13.5" fill="none" stroke="rgba(255,255,255,0.06)"/>
+  <rect x="1" y="0" width="484" height="1.5" fill="url(#edge)"/>
+
+  <g class="head">
+    <text class="sigil" x="24" y="34">$</text>
+    <text class="prompt" x="38" y="34">metho@systems</text>
+    <text class="foot-txt" x="466" y="34" text-anchor="end">v2026.8</text>
+    <rect x="24" y="48" width="438" height="1" fill="rgba(255,255,255,0.06)"/>
+  </g>
+
+  <g>
+    
+    <g class="row" style="animation-delay:0.32s"><text class="key" x="24" y="72.0">empresa</text><text class="val" x="104" y="72.0">Metho IA</text></g>
+    <g class="row" style="animation-delay:0.395s"><text class="key" x="24" y="91.5">base</text><text class="val" x="104" y="91.5">Santa Catarina · Brasil</text></g>
+    <g class="row" style="animation-delay:0.47s"><text class="key" x="24" y="111.0">foco</text><text class="val" x="104" y="111.0">sistemas de receita com IA</text></g>
+    <g class="row" style="animation-delay:0.545s"><text class="key" x="24" y="130.5">stack</text><text class="val" x="104" y="130.5">Next.js · TypeScript · Tailwind</text></g>
+    <g class="row" style="animation-delay:0.62s"><text class="key" x="24" y="150.0">dados</text><text class="val" x="104" y="150.0">Supabase · Postgres · RLS</text></g>
+    <g class="row" style="animation-delay:0.695s"><text class="key" x="24" y="169.5">ia</text><text class="val" x="104" y="169.5">agentes · RAG · orquestração</text></g>
+    <g class="row" style="animation-delay:0.77s"><text class="key" x="24" y="189.0">canais</text><text class="val" x="104" y="189.0">WhatsApp · Instagram · Web</text></g>
+    <g class="row" style="animation-delay:0.845s"><text class="key" x="24" y="208.5">deploy</text><text class="val" x="104" y="208.5">Vercel · edge</text></g>
+  </g>
+
+  <g class="foot">
+    <rect x="24" y="226" width="13" height="13" rx="3" fill="#E5001A"/><rect x="41" y="226" width="13" height="13" rx="3" fill="#CC0017"/><rect x="58" y="226" width="13" height="13" rx="3" fill="#8C0303"/><rect x="75" y="226" width="13" height="13" rx="3" fill="#400101"/><rect x="92" y="226" width="13" height="13" rx="3" fill="#1A1A22"/><rect x="109" y="226" width="13" height="13" rx="3" fill="#9999AA"/><rect x="126" y="226" width="13" height="13" rx="3" fill="#F0F0F5"/>
+    <circle class="dot" cx="360" cy="232" r="3.5" fill="#22C55E"/>
+    <text class="status" x="466" y="236" text-anchor="end">operando 24/7</text>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+# Usado pelo workflow diário (fetch + heatmap)
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# Só para render_mark.py, que roda localmente quando o logo muda
+# pillow==11.0.0
+# numpy==2.1.3

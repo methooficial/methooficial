@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="268" viewBox="0 0 370 268" role="img" aria-label="Monograma da Metho em ASCII art">
+  <title>Metho — monograma</title>
+  <defs>
+    <linearGradient id="ink" x1="0" y1="0" x2=".4" y2="1">
+      <stop offset="0" stop-color="#E5001A"/>
+      <stop offset=".62" stop-color="#E5001A"/>
+      <stop offset="1" stop-color="#8C0303"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E5001A" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#E5001A" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="halo" cx=".5" cy=".55" r=".55">
+      <stop offset="0" stop-color="#E5001A" stop-opacity=".13"/>
+      <stop offset="1" stop-color="#E5001A" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E5001A" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#E5001A" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#E5001A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .r { font-size: 5.45px; letter-spacing: 0.000px; fill: url(#ink); white-space: pre; }
+    .kicker { font-size: 10px; fill: #E5001A; letter-spacing: .18em; font-weight: 600; }
+    .meta { font-size: 10px; fill: #55556A; letter-spacing: .06em; }
+    .name { font-size: 11px; fill: #9999AA; letter-spacing: .24em; }
+    @keyframes wipe { from { clip-path: inset(0 100% 0 0); } to { clip-path: inset(0 -2% 0 0); } }
+    @keyframes fade-up { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: none; } }
+    @keyframes scan { from { transform: translateY(0); opacity: 0; } 12% { opacity: .8; } to { transform: translateY(203.8px); opacity: 0; } }
+    .r { clip-path: inset(0 100% 0 0); animation: wipe .5s cubic-bezier(.33,1,.68,1) both; }
+    .meta { opacity: 0; animation: fade-up .5s cubic-bezier(.22,1,.36,1) 1.35s both; }
+    .scanline { animation: scan 1.7s cubic-bezier(.4,0,.2,1) .15s both; }
+
+  </style>
+
+  <rect width="370" height="268" rx="14" fill="#141419"/>
+  <rect x="41.0" y="44.0" width="288" height="203.8" fill="url(#halo)"/>
+  <rect x=".5" y=".5" width="369" height="267" rx="13.5" fill="none" stroke="rgba(255,255,255,0.06)"/>
+  <rect x="1" y="0" width="368" height="1.5" fill="url(#edge)"/>
+
+  <text class="kicker" x="20" y="30">MONOGRAMA</text>
+
+  <g>
+    
+    <text class="r" x="51.00" y="61.45" style="animation-delay:0.18s">s#%#s%s%oo=-                                       ..++xoss#s#%#s#%#s#%#s#%#s#%#s%</text>
+    <text class="r" x="51.00" y="66.89" style="animation-delay:0.208s">@#@#@#@#@#@#@xo.                               .+*##@#@#@#@#@#@#@#@#@#@#@#@#@#@#@%</text>
+    <text class="r" x="51.00" y="72.34" style="animation-delay:0.236s">%@%@#@%@#@%@#@%#o-                           =o##@%@#@%@#@%@#@#@#@#@#@#@#@%@#@%@##</text>
+    <text class="r" x="51.00" y="77.79" style="animation-delay:0.264s">@@@#@@@#@@@#@@@#@#x                       .+##@#@@@#@@@#@@@#@@@#@@@#@@@#@@@#@@@#@%</text>
+    <text class="r" x="51.00" y="83.24" style="animation-delay:0.292s">s@#@%@#@%@#@%@#@%@##:                    +s@%@#@%@#@%@#@%@#@%@#@%@#@%@#@%@#@%@#@%#</text>
+    <text class="r" x="51.00" y="88.68" style="animation-delay:0.32s">##@#@#@#@#@#@#@#@#@#@-                 .s#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@%</text>
+    <text class="r" x="51.00" y="94.13" style="animation-delay:0.348s">s@%@#@%@#@#@#@%@#@%@##.               -##@%@#@%@#@%@#@%@#@s%xsosss*xosoxosoxososox</text>
+    <text class="r" x="51.00" y="99.58" style="animation-delay:0.376s">@@@#@@@#@@@#@@@#@@@#@##.             +@#@@@#@@@#@#@#@#%+=  :os@#@-</text>
+    <text class="r" x="51.00" y="105.02" style="animation-delay:0.404s">s@#@%@#@%@#@%@#@%@#@%@#o            +@#@%@#@%@#@%@#s-.   +x@%@#@%=</text>
+    <text class="r" x="51.00" y="110.47" style="animation-delay:0.432s">##@#@#@#@#@#@#@#@#@#@#@#=          =@#@#@#@#@#@@@s+    :##@@@#@@@-</text>
+    <text class="r" x="51.00" y="115.92" style="animation-delay:0.46s">%@%@#@%@#@%@s@%@#@%@#@%@s.        .##@%@#@#@#@#@*     -##@#@#@#@#=</text>
+    <text class="r" x="51.00" y="121.37" style="animation-delay:0.488s">@@@#@@@#@@@#+%@#@@@#@@@#@*       .##@#@#@@@#@@@-     -@#@@@#@@@#@-</text>
+    <text class="r" x="51.00" y="126.81" style="animation-delay:0.516s">s@#@%@#@%@#@:=%@%@#@%@#@%#.      o%@%@#@%@#@%@-      s#@%@#@%@#@%=</text>
+    <text class="r" x="51.00" y="132.26" style="animation-delay:0.544s">@#@#@#@#@#@#= s#@#@#@#@#@#s     -%@#@#@@@#@@@o       %@@@#@@@#@@@-</text>
+    <text class="r" x="51.00" y="137.71" style="animation-delay:0.572s">%@%@#@%@#@%@-  %#@%@#@%@#@%+    x@%@#@#@#@#@%:       @#@#@#@#@#@#=</text>
+    <text class="r" x="51.00" y="143.15" style="animation-delay:0.6s">@@@#@@@#@@@#*  =@@@#@@@#@@@#=  +@@@#@@@#@@@#+        #@#@@@#@@@#@-</text>
+    <text class="r" x="51.00" y="148.60" style="animation-delay:0.628s">s@#@%@#@%@#@-   x@#@%@#@%@#@o  #%@#@%@#@%@#x         ##@%@#@%@#@%=</text>
+    <text class="r" x="51.00" y="154.05" style="animation-delay:0.656s">@#@#@#@#@#@#+   =%@#@#@#@#@#@-o#@#@@@#@@@#@.         %@@@#@@@#@#@-</text>
+    <text class="r" x="51.00" y="159.50" style="animation-delay:0.684s">%@%@#@%@#@%@-    *%@#@%@#@%@##s@#@#@#@#@#@-          @%@#@#@#@%@#=</text>
+    <text class="r" x="51.00" y="164.94" style="animation-delay:0.712s">@@@#@@@#@@@#+     %#@@@#@@@#@#@#@@@#@@@#@x           #@#@@@#@@@#@-</text>
+    <text class="r" x="51.00" y="170.39" style="animation-delay:0.74s">s@#@%@#@%@#@:     .@%@#@%@#@%@#@%@#@%@#@%:           ##@%@#@%@#@%=</text>
+    <text class="r" x="51.00" y="175.84" style="animation-delay:0.768s">@#@#@#@#@#@#+      +@#@#@#@#@#@@@#@@@#@@o            %@#@#@#@#@#@-</text>
+    <text class="r" x="51.00" y="181.28" style="animation-delay:0.796s">%@%@#@%@#@%@=       x@%@#@%@#@#@#@#@#@#%             #%@#@#@#@%@#=</text>
+    <text class="r" x="51.00" y="186.73" style="animation-delay:0.824s">@@@#@@@#@@@#*       =#@#@@@#@@@#@@@#@@@-             #@#@@@#@@@#@-</text>
+    <text class="r" x="51.00" y="192.18" style="animation-delay:0.852s">s@#@%@#@%@#@-        x#@%@#@%@#@%@#@%@*              ##@%@#@%@#@%=</text>
+    <text class="r" x="51.00" y="197.63" style="animation-delay:0.88s">@#@#@#@#@#@#+        .@#@#@@@#@@@#@@@%:              %@#@#@#@#@#@-</text>
+    <text class="r" x="51.00" y="203.07" style="animation-delay:0.908s">%@%@#@%@#@%@=         :##@#@#@#@#@#@%=               #%@#@%@#@%@#=</text>
+    <text class="r" x="51.00" y="208.52" style="animation-delay:0.936s">@@@#@@@#@@@#+          +@@@#@@@#@@@%+                #@#@@@#@@@#@-</text>
+    <text class="r" x="51.00" y="213.97" style="animation-delay:0.964s">s@#@%@#@%@#@:           .s#@%@#@%#*:                 ##@%@#@%@#@%=</text>
+    <text class="r" x="51.00" y="219.41" style="animation-delay:0.992s">@#@#@#@#@#@#+             -=o*x+=                    %@#@#@#@#@#@-</text>
+    <text class="r" x="51.00" y="224.86" style="animation-delay:1.02s">%@%@#@%@#@%@-                                        #%@#@%@#@%@#=</text>
+    <text class="r" x="51.00" y="230.31" style="animation-delay:1.048s">@#@#@@@#@@@#*                                        #@#@@@#@@@#@-</text>
+    <text class="r" x="51.00" y="235.76" style="animation-delay:1.076s">s#%@%#%@%#%@-                                        #%@%#%@%#%@%=</text>
+  </g>
+
+  <rect class="scanline" x="41.0" y="44.0" width="288" height="2" fill="url(#scan)"/>
+
+  <g class="meta">
+    <text class="name" x="20" y="248">M E T H O</text>
+    <text class="meta" x="350" y="248" text-anchor="end">#E5001A</text>
+  </g>
+</svg>
