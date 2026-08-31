@@ -30,8 +30,8 @@
 
   <g class="head">
     <text class="kicker" x="22" y="34">ATIVIDADE</text>
-    <text class="total" x="22" y="60">307 contribuições</text>
-    <text class="sub" x="808" y="60" text-anchor="end">2025-08-31 → 2026-08-30</text>
+    <text class="total" x="22" y="60">308 contribuições</text>
+    <text class="sub" x="808" y="60" text-anchor="end">2025-08-31 → 2026-08-31</text>
   </g>
 
   <g>
@@ -417,11 +417,12 @@
     <rect class="c l1" x="766" y="138" width="11" height="11" rx="2.5" fill="#400101" style="animation-delay:0.802s"><title>1 em 2026-08-27</title></rect>
     <rect class="c l1" x="766" y="152" width="11" height="11" rx="2.5" fill="#400101" style="animation-delay:0.824s"><title>1 em 2026-08-28</title></rect>
     <rect class="c l1" x="766" y="166" width="11" height="11" rx="2.5" fill="#400101" style="animation-delay:0.846s"><title>1 em 2026-08-29</title></rect>
-    <rect class="c l0" x="780" y="82" width="11" height="11" rx="2.5" fill="#1A1A22" style="animation-delay:0.728s"><title>0 em 2026-08-30</title></rect>
+    <rect class="c l1" x="780" y="82" width="11" height="11" rx="2.5" fill="#400101" style="animation-delay:0.728s"><title>1 em 2026-08-30</title></rect>
+    <rect class="c l0" x="780" y="96" width="11" height="11" rx="2.5" fill="#1A1A22" style="animation-delay:0.75s"><title>0 em 2026-08-31</title></rect>
   </g>
 
   <g class="foot">
-    <text class="sub" x="22" y="201">76 dias ativos  ·  melhor dia 18  ·  maior sequência 16d</text>
+    <text class="sub" x="22" y="201">77 dias ativos  ·  melhor dia 18  ·  maior sequência 17d</text>
     <text class="lbl" x="641" y="201">menos</text>
     <rect x="679" y="192" width="11" height="11" rx="2.5" fill="#1A1A22"/>
     <rect x="693" y="192" width="11" height="11" rx="2.5" fill="#400101"/>
