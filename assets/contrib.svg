@@ -30,8 +30,8 @@
 
   <g class="head">
     <text class="kicker" x="22" y="34">ATIVIDADE</text>
-    <text class="total" x="22" y="60">313 contribuições</text>
-    <text class="sub" x="808" y="60" text-anchor="end">2025-08-31 → 2026-09-02</text>
+    <text class="total" x="22" y="60">314 contribuições</text>
+    <text class="sub" x="808" y="60" text-anchor="end">2025-08-31 → 2026-09-03</text>
   </g>
 
   <g>
@@ -420,7 +420,8 @@
     <rect class="c l1" x="780" y="82" width="11" height="11" rx="2.5" fill="#400101" style="animation-delay:0.728s"><title>1 em 2026-08-30</title></rect>
     <rect class="c l1" x="780" y="96" width="11" height="11" rx="2.5" fill="#400101" style="animation-delay:0.75s"><title>1 em 2026-08-31</title></rect>
     <rect class="c l1" x="780" y="110" width="11" height="11" rx="2.5" fill="#400101" style="animation-delay:0.772s"><title>2 em 2026-09-01</title></rect>
-    <rect class="c l1" x="780" y="124" width="11" height="11" rx="2.5" fill="#400101" style="animation-delay:0.794s"><title>2 em 2026-09-02</title></rect>
+    <rect class="c l1" x="780" y="124" width="11" height="11" rx="2.5" fill="#400101" style="animation-delay:0.794s"><title>3 em 2026-09-02</title></rect>
+    <rect class="c l0" x="780" y="138" width="11" height="11" rx="2.5" fill="#1A1A22" style="animation-delay:0.816s"><title>0 em 2026-09-03</title></rect>
   </g>
 
   <g class="foot">
