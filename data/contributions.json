@@ -1,18 +1,18 @@
 {
   "user": "methooficial",
-  "generated_at": "2026-11-20T15:27:10+00:00",
+  "generated_at": "2026-11-21T14:39:04+00:00",
   "range": {
     "from": "2025-11-16",
-    "to": "2026-11-20"
+    "to": "2026-11-21"
   },
-  "total": 492,
-  "active_days": 158,
+  "total": 493,
+  "active_days": 159,
   "best_day": {
     "date": "2026-11-17",
     "count": 26
   },
-  "current_streak": 98,
-  "longest_streak": 98,
+  "current_streak": 99,
+  "longest_streak": 99,
   "monthly": {
     "2025-11": 0,
     "2025-12": 0,
@@ -26,7 +26,7 @@
     "2026-08": 24,
     "2026-09": 33,
     "2026-10": 70,
-    "2026-11": 80
+    "2026-11": 81
   },
   "days": [
     {
@@ -1876,6 +1876,11 @@
     },
     {
       "date": "2026-11-20",
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-11-21",
       "level": 0,
       "count": 0
     }
